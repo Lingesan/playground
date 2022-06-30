@@ -1,5 +1,8 @@
 package com.designpatterns;
 
+/**
+ * The intent of the Builder design pattern is to separate the construction of a complex object from its representation
+ */
 public class Builder {
 
     public static void main(String[] args) {
